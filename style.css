@@ -1,0 +1,15 @@
+.my-style {
+    background-color: blue;
+    color:yellow;
+    border: 4px dotted #000;
+}
+
+#my-id {
+    background-color: aqua;
+    color: red;
+}
+
+p {
+    background-color: black;
+    color: white;
+}
